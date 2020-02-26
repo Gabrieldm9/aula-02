@@ -2,4 +2,4 @@
 
 - Renan
 - Jean
-- Gabriel
+- Gabriel Demmer Maciel
