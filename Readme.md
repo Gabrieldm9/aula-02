@@ -2,4 +2,4 @@
 
 - Jean Mota
 - Renan Rodolfo da Silva
-- Gabriel
+- Gabriel Demmer Maciel
