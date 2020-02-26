@@ -1,5 +1,5 @@
 # Trabalho colaborativo
 
 - Renan
-- Jean
+- Jean Mota
 - Gabriel
